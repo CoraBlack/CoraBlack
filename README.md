@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Game development is my work, too. I have be participanted in game jam twice.
 
 ### 😘 My most handy tool
-<img align="right" src="https://gh-stats.dogdie.icu/api/top-langs?username=CoraBlack&layout=pie&size_weight=0.05&count_weight=0.8&exclude_repo=SGDL2&theme=bear">
+<img align="right" src="https://gh-stats.dogdie.icu/api/top-langs?username=CoraBlack&layout=pie&size_weight=0.5&count_weight=0.5&exclude_repo=SGDL2&theme=bear">
 
 - My **favourite language** are `C/C++ and rust`<br>
 - My **favourite game engine** is `Godot`<br>
