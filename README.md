@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### 👋 Hi, I am Cora
-<img align="right" src="https://gh-stats.dogdie.icu/api?username=CoraBlack&show_icons=true&theme=onedark">
+<img align="right" src="https://gh-stats.dogdie.icu/api?username=CoraBlack&show_icons=true&theme=bear">
 🐉I am a Chinese developer(bad eng.)<br>
 🐧I am linux lover(btw i use arch)<br>  
 🏫I am a college student from GPNU<br>
@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 - Game development is my work, too. I have be participanted in game jam twice.
 
 ### 😘 My most handy tool
-<img align="right" src="https://gh-stats.dogdie.icu/api/top-langs?username=CoraBlack&layout=pie&size_weight=0.05&count_weight=0.8&hide=html,objective-c&theme=onedark">
+<img align="right" src="https://gh-stats.dogdie.icu/api/top-langs?username=CoraBlack&layout=pie&size_weight=0.05&count_weight=0.8&hide=html,objective-c&theme=bear">
 
 - My **favourite language** are `C/C++ and rust`<br>
 - My **favourite game engine** is `Godot`<br>
 - My **favourite code editor** is `vscode`<br>
 
 ### 😎 My popular repos
-![libgkit](https://gh-stats.dogdie.icu/api/pin/?username=PenguinsCampCN&repo=libgkit&theme=onedark)<br>
-![generic_c](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=generic_c&theme=onedark)
+[![libgkit](https://gh-stats.dogdie.icu/api/pin/?username=PenguinsCampCN&repo=libgkit&theme=bear)](https://github.com/PenguinsCampCN/libgkit)<br>
+[![generic_c](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=generic_c&theme=bear)](https://github.com/CoraBlack/generic_c)
 
 ### 🕹️ Gamejam achive
-![gaem](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=gaem-project&theme=onedark)
-![beat beat boom](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=light-star-project&theme=onedark)
+[![gaem](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=gaem-project&theme=bear)](https://github.com/CoraBlack/gaem-project)
+[![beat beat boom](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=light-star-project&theme=bear)](https://github.com/CoraBlack/light-star-projct)
 
 ### 👔 Organization I lead
 - [PenguinsCampCN](https://github.com/PenguinsCampCN) Linux lover community for GPNU students
