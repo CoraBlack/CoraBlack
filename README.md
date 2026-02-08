@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 
 ### 👯 Collaborate with me
 Causing that I am in China and I don't usually use worldwide social media, I don't provide my contact information here.<br>
-If you want to participate my project and have some new idea about my project, you can express your wishes by opening the<br>
-draft and pull request for the project which you are interesting. I love to code with others, that is amazing experience!<br>
-What are under major development currently are gkit and generic_c. You can visit the repo under the topic [My popular repos](#🎨 My popular repos).<br>
+If you want to join my projects and have some new idea about them, you can express your wishes by opening the draft or<br>
+pull request for the project which you are interesting. I love to code with others, that is amazing experience!<br>
+What are under major development currently are gkit and generic_c. You can visit the repo under the topic [My popular repos](#🎨-My-popular-repos).<br>
 
 ### 😘 Finally, nice to meet you, bro!
