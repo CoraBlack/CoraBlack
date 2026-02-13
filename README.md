@@ -29,12 +29,16 @@ Here are some ideas to get you started:
 ### 🛠️ My most handy tool
 <img align="right" src="https://gh-stats.dogdie.icu/api/top-langs?username=CoraBlack&layout=pie&size_weight=0.5&count_weight=0.5&exclude_repo=SGDL2&theme=bear">
 
-- My **favourite language** are `C/C++ and rust`<br>
-- My **favourite game engine** is `Godot`<br>
-- My **favourite code editor** is `vscode`<br>
+- My **major language** are `C/C++ and rust`<br>
+- My **major game engine** is `Godot`<br>
+- My **major code editor** is `vscode`<br>
 
 ### 🎨 My popular repos
 [![libgkit](https://gh-stats.dogdie.icu/api/pin/?username=PenguinsCampCN&repo=libgkit&theme=bear)](https://github.com/PenguinsCampCN/libgkit)<br>
+[![cson](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=cson&theme=bear)](https://github.com/CoraBlack/cson)
+
+### 😗 Others under development
+[![Antarctica](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=Antarctica&theme=bear)](https://github.com/CoraBlack/Antarctica)
 [![generic_c](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=generic_c&theme=bear)](https://github.com/CoraBlack/generic_c)
 
 ### 🕹️ My Gamejam achive
