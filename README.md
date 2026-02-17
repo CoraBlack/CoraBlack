@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - My **major code editor** is `vscode`<br>
 
 ### 🎨 My popular repos
-[![libgkit](https://gh-stats.dogdie.icu/api/pin/?username=PenguinsCampCN&repo=libgkit&theme=bear)](https://github.com/PenguinsCampCN/libgkit)<br>
+[![libgkit](https://gh-stats.dogdie.icu/api/pin/?username=AntarcticaCamp&repo=libgkit&theme=bear)](https://github.com/AntarcticaCamp/libgkit)<br>
 [![cson](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=cson&theme=bear)](https://github.com/CoraBlack/cson)
 
 ### 😗 Others under development
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 [![beat beat boom](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=light-star-project&theme=bear)](https://github.com/CoraBlack/light-star-projct)
 
 ### 👔 Organization I lead
-- [PenguinsCampCN](https://github.com/PenguinsCampCN) Linux lover community for GPNU students
+- [Antarctica](https://github.com/AntarcticaCamp) Linux lover community for GPNU students
 - [TGW-Development](https://github.com/TGW-Development) The hub for developers of WWI card game named TGW
 
 ### 👯 Collaborate with me
