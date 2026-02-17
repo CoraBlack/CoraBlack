@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [![cson](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=cson&theme=bear)](https://github.com/CoraBlack/cson)
 
 ### 😗 Others under development
-[![Antarctica](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=Antarctica&theme=bear)](https://github.com/CoraBlack/Antarctica)
+[![Antarctica](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=Antarctica-cli&theme=bear)](https://github.com/CoraBlack/Antarctica-cli)
 [![generic_c](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=generic_c&theme=bear)](https://github.com/CoraBlack/generic_c)
 
 ### 🕹️ My Gamejam achive
