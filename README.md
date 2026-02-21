@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### 🎨 My popular repos
 [![libgkit](https://gh-stats.dogdie.icu/api/pin/?username=AntarcticaCamp&repo=libgkit&theme=bear)](https://github.com/AntarcticaCamp/libgkit)<br>
-[![cson](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=cson&theme=bear)](https://github.com/CoraBlack/cson)
+[![cson](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=cxon&theme=bear)](https://github.com/CoraBlack/cxon)
 
 ### 😗 Others under development
 [![Antarctica](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=Antarctica-cli&theme=bear)](https://github.com/CoraBlack/Antarctica-cli)
