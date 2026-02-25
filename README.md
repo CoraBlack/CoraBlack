@@ -35,11 +35,12 @@ Here are some ideas to get you started:
 
 ### 🎨 My popular repos
 [![libgkit](https://gh-stats.dogdie.icu/api/pin/?username=AntarcticaCamp&repo=libgkit&theme=bear)](https://github.com/AntarcticaCamp/libgkit)<br>
-[![cson](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=cxon&theme=bear)](https://github.com/CoraBlack/cxon)
+[![cmakr](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=cmakr&theme=bear)](https://github.com/CoraBlack/cmakr)<br>
+[![cxon](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=cxon&theme=bear)](https://github.com/CoraBlack/cxon) 
+[![cxon_schema](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=cxon_schema&theme=bear)](https://github.com/CoraBlack/cxon_schema)
 
 ### 😗 Others under development
-[![Antarctica](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=Antarctica-cli&theme=bear)](https://github.com/CoraBlack/Antarctica-cli)
-[![generic_c](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=generic_c&theme=bear)](https://github.com/CoraBlack/generic_c)
+[![Antarctica-cli](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=Antarctica-cli&theme=bear)](https://github.com/CoraBlack/Antarctica-cli)
 
 ### 🕹️ My Gamejam achive
 [![gaem](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=gaem-project&theme=bear)](https://github.com/CoraBlack/gaem-project)
