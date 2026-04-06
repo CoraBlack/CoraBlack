@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### 👋 Hi, I am Cora
-<img align="right" src="https://gh-stats.dogdie.icu/api?username=CoraBlack&show_icons=true&theme=bear">
+<!-- <img align="right" src="https://gh-stats.dogdie.icu/api?username=CoraBlack&show_icons=true&theme=bear"> -->
 🐉I am a Chinese developer(bad eng.)<br>
 🐧I am linux lover(btw i use arch)<br>
 🏫I am a college student from GPNU<br>
@@ -27,29 +27,26 @@ Here are some ideas to get you started:
 - Game development is my work, too. I have be participanted in game jam twice.
 
 ### 🛠️ My most handy tool
-<img align="right" src="https://gh-stats.dogdie.icu/api/top-langs?username=CoraBlack&layout=pie&size_weight=0.5&count_weight=0.5&exclude_repo=SGDL2&theme=bear">
+<!-- <img align="right" src="https://gh-stats.dogdie.icu/api/top-langs?username=CoraBlack&layout=pie&size_weight=0.5&count_weight=0.5&exclude_repo=SGDL2&theme=bear"> -->
 
 - My **major language** are `C/C++ and rust`<br>
 - My **major game engine** is `Godot`<br>
 - My **major code editor** is `vscode`<br>
 
 ### 🎨 My popular repos
-[![libgkit](https://gh-stats.dogdie.icu/api/pin/?username=AntarcticaCamp&repo=libgkit&theme=bear)](https://github.com/AntarcticaCamp/libgkit)<br>
-[![cmakr](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=cmakr&theme=bear)](https://github.com/CoraBlack/cmakr)<br>
-[![cxon](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=cxon&theme=bear)](https://github.com/CoraBlack/cxon) 
-[![cxon_schema](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=cxon_schema&theme=bear)](https://github.com/CoraBlack/cxon_schema)
-
-### 😗 Others under development
-[![Antarctica-cli](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=Antarctica-cli&theme=bear)](https://github.com/CoraBlack/Antarctica-cli)
+- [libgkit](https://github.com/gkit-org/libgkit) --Light widget game develop library
+- [cmakr](https://github.com/CoraBlack/cmakr) --rust tool for compiling mixture with cmake project
+- [cxon](https://github.com/CoraBlack/cxon) -- a C/C++ project builder in rust
 
 ### 🕹️ My Gamejam achive
-[![gaem](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=gaem-project&theme=bear)](https://github.com/CoraBlack/gaem-project)
-[![beat beat boom](https://gh-stats.dogdie.icu/api/pin/?username=CoraBlack&repo=light-star-project&theme=bear)](https://github.com/CoraBlack/light-star-projct)
+- [gaem](https://github.com/CoraBlack/gaem-project)
+- [beat beat boom](https://github.com/CoraBlack/light-star-projct)
 
 ### 👔 Organization I lead
 - [Antarctica](https://github.com/AntarcticaCamp) Linux lover community for GPNU students
 - [TGW-Development](https://github.com/TGW-Development) The hub for developers of WWI card game named TGW
 - [code-landscape](https://github.com/code-landscape) A community for coding lovers
+- [gkit-org](https://github.com/gkit-org) Project for a simpile game engine gkit
 
 ### 👯 Collaborate with me
 Causing that I am in China and I don't usually use worldwide social media, I don't provide my contact information here.<br>
